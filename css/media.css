@@ -22,11 +22,11 @@
 	margin: 7px;
 }
 .header .row .menu-toggle {
-	width: 30%;
+	width: 200px;
 }
-.fade-toggle {
+/*.fade-toggle {
 	left: 75.1% !important;
-}
+}*/
 .header .row .menu-toggle ul {
 	margin-top: 30%;
 }
@@ -90,9 +90,9 @@ footer .item-left h2 {
 .header .row .menu-toggle {
 	width: 250px;
 }
-.fade-toggle {
+/*.fade-toggle {
 	left: 74%!important;
-}
+}*/
 .line-1x {
 	transform: rotate(-45deg) translate(-3px, 2.5px);
 }
@@ -132,9 +132,9 @@ footer .item-left h2 {
 .header .row .menu-toggle {
 	width: 220px;
 }
-.fade-toggle {
+/*.fade-toggle {
 	left: 70%!important;
-}
+}*/
 .text {
 	padding: 0 20px;
 }
@@ -209,9 +209,9 @@ footer .item-right h2 {
 }
 
 @media only screen and (max-width: 667px) {
-.fade-toggle {
+/*.fade-toggle {
 	left: 67%!important;
-}
+}*/
 }
 
 @media only screen and (max-width: 650px) {
@@ -219,9 +219,9 @@ footer .item-right h2 {
 }
 
 @media only screen and (max-width: 600px) {
-.fade-toggle {
+/*.fade-toggle {
 	left: 56%!important;
-}
+}*/
 .work .item .item-w .link-1, .work .item .item-w .link-2, .work .item .item-w .link-3 {
 	height: 200px;
 }
@@ -244,18 +244,21 @@ footer .item-right h2 {
 .work .item .item-w .link-2 {
 	width: 100%;
 }
+.header .row .menu-toggle {
+	width: 200px;
+}
 }
 @media only screen and (max-width: 455px) {
-.fade-toggle {
+/*.fade-toggle {
 	left: 50%!important;
-}
+}*/
 }
 
 
 @media only screen and (max-width: 380px) {
-.fade-toggle {
+/*.fade-toggle {
 	left: 42%!important;
-}
+}*/
 footer .item-left h2 {
 	font-size: 10px;
 	margin: 0 10px;
